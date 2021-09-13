@@ -8,7 +8,7 @@ A skeleton for creating applications with [CakePHP](https://cakephp.org) 4.x.
 
 The framework source code can be found here: [cakephp/cakephp](https://github.com/cakephp/cakephp).
 
-PS: I'm keeping the default readme from CakePHP from future reference. Not because I'm lazy....
+PS: I'm keeping the default readme from CakePHP for future reference. Not because I'm lazy....
 
 ## Installation
 
